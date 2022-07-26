@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Yogeshiimbg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Yogesh Jha
+- 👀 I’m interested in Marketing and Financing
+- 🌱 I’m currently learning digital marketing
+- 💞️ Currently pursuing MBA in IIM Bodhgaya
+- 📫 Reach me through my mail- jhayogesh2231@gmail.com
 
 <!---
 Yogeshiimbg/Yogeshiimbg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
